@@ -14,7 +14,7 @@
     <link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 <body>
-    <h1>Products</h1>
+    <h1>Productos</h1>
     <c:if test="${not empty sessionScope.username}">
         <h2>Bienvenido, ${sessionScope.username}!</h2>
     </c:if>
