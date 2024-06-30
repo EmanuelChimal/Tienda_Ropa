@@ -10,7 +10,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Mi Tienda de Ropa</title>
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
     <h1>Bienvenid@ a mi tienda de ropa</h1>
